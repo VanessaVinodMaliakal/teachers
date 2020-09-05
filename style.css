@@ -1,0 +1,16 @@
+img{
+    
+    width: 600px;
+    height: 390px;
+}
+.logo{
+    width: 100px;
+    display:  inline-flex;
+    }
+
+.logo img{
+    margin: auto 5px;
+    float: left;
+    width:400px;
+    height: 250px;
+}
